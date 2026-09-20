@@ -1,0 +1,6 @@
+[cam logitech_c270]
+mode: ustreamer
+device: /dev/video0
+input_format: mjpeg
+resolution: 1280x720
+fps: 30
